@@ -17,3 +17,15 @@ and many other tools use SSH. This tutorial will show you how to create your own
 .gitignore: One of the most common ways developers mess up their security is by accidentally sharing their API keys on GitHub. You can avoid this mistake by 
 using Git's built-in .gitignore feature. This tutorial will show you how you can safely put your code's API keys and other sensitive information into a .env file, 
 and prevent Git from committing certain files or folders. (12 minute read): https://www.freecodecamp.org/news/gitignore-file-how-to-ignore-files-and-folders-in-git/
+
+Learn React for Beginners. This new freeCodeCamp Front-End JavaScript course will teach you all about React Hooks, State, the Context API, and more. 
+You'll code along with three experienced software engineers, building projects step-by-step. 
+(8 hour YouTube course): https://www.freecodecamp.org/news/learn-react-from-three-all-star-instructors/
+
+2. And if you'd prefer to learn Angular, I'm thrilled to share this course with you as well: Learn Angular and TypeScript for Beginners. 
+This in-depth course will teach you TypeScript Data Types, Angular Directives, Components, RxJS, and Lifecycle Hooks. 
+(18 hour YouTube course): https://www.freecodecamp.org/news/angular-for-beginners-course/
+
+3. freeCodeCamp also just published a full-length Java Programming Handbook to help beginners get started. You'll learn about the Java Virtual Machine, 
+Java IDEs, Data Types, Operators, and more. This should serve as an excellent resource for you over the coming years, so I encourage you to read some of 
+it and bookmark it as a reference. (full-length book): https://www.freecodecamp.org/news/the-java-handbook/
