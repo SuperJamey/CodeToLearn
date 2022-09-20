@@ -18,14 +18,19 @@ and many other tools use SSH. This tutorial will show you how to create your own
 using Git's built-in .gitignore feature. This tutorial will show you how you can safely put your code's API keys and other sensitive information into a .env file, 
 and prevent Git from committing certain files or folders. (12 minute read): https://www.freecodecamp.org/news/gitignore-file-how-to-ignore-files-and-folders-in-git/
 
-Learn React for Beginners. This new freeCodeCamp Front-End JavaScript course will teach you all about React Hooks, State, the Context API, and more. 
+REACT for Beginners. This new freeCodeCamp Front-End JavaScript course will teach you all about React Hooks, State, the Context API, and more. 
 You'll code along with three experienced software engineers, building projects step-by-step. 
 (8 hour YouTube course): https://www.freecodecamp.org/news/learn-react-from-three-all-star-instructors/
 
-2. And if you'd prefer to learn Angular, I'm thrilled to share this course with you as well: Learn Angular and TypeScript for Beginners. 
-This in-depth course will teach you TypeScript Data Types, Angular Directives, Components, RxJS, and Lifecycle Hooks. 
-(18 hour YouTube course): https://www.freecodecamp.org/news/angular-for-beginners-course/
-
-3. freeCodeCamp also just published a full-length Java Programming Handbook to help beginners get started. You'll learn about the Java Virtual Machine, 
+JAVA: freeCodeCamp also just published a full-length Java Programming Handbook to help beginners get started. You'll learn about the Java Virtual Machine, 
 Java IDEs, Data Types, Operators, and more. This should serve as an excellent resource for you over the coming years, so I encourage you to read some of 
 it and bookmark it as a reference. (full-length book): https://www.freecodecamp.org/news/the-java-handbook/
+
+DOM: When you visit a webpage, everything you see is HTML elements rendered with the Document Object Model. But how does the DOM work? In this hands-on tutorial 
+by Front-End Engineer Ophelia Boamah, you'll code your own car shopping User Interface. You'll learn about DOM Selectors, Event Listeners, and more. 
+(25 minute read): https://www.freecodecamp.org/news/the-javascript-dom-a-practical-tutorial/
+
+OSS: You may have heard that one of the best ways to solidify your developer skills is to contribute to open source software. But getting started can be a 
+confusing process. Thankfully, prolific freeCodeCamp contributor Tapas Adhikary has created a comprehensive beginner's manual to help you understand OSS, 
+identify where you can help, and get your first pull request merged. 
+(30 minute read): https://www.freecodecamp.org/news/a-practical-guide-to-start-opensource-contributions/
